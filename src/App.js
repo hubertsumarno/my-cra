@@ -9,6 +9,7 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
+        <h1>This is hosted on NETLIFY</h1>
         <a
           className="App-link"
           href="https://reactjs.org"
